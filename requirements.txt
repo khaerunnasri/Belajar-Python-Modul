@@ -1,0 +1,6 @@
+# Seperti Catatatan ke team 
+# Berisi library atau modul yang dibutuhkan
+requests==2.34.2
+colorama==0.4.6
+pillow==12.2.0
+qrcode==8.2
